@@ -1,6 +1,8 @@
 # ILC Dataset
 
-We release some data sample in the folder `data`. The collectors use their smartphones to scan the features (e.g., BLE signals) as the location fingerprints, and the data are saved in the trace files. The structure of `data` is shown as follows.
+We organized an online fingerprint-based indoor localization competition in 2021. It attracted 1000+ teams worldwide. The teams were provided with a 60 GB dataset including WiFi, BLE, IMU, and geomagnetic field strength data collected from 200+ buildings to build their localization algorithms. The competition received 28,000+ submissions. The top team achieved an average accuracy of 1.50m.
+
+In this repository, we release some data samples in the folder `data`. The collectors use their smartphones to scan the features (e.g., BLE signals) as the location fingerprints, and the data are saved in the trace files. The structure of `data` is shown as follows.
 
 ```
 \---site1

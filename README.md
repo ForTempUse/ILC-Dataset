@@ -14,7 +14,7 @@ We report some of our key findings and lessons from this large-scale competition
 
 ## Dataset
 
-We release some data sample in the folder `data`. **The full 60GB dataset will be available at the camera ready time of our paper**. The data are collected by surveyors using smartphones, and saved as trace files (i.e., fingerprints). For each floor of the building, we not only release its fingerprint data (in the folder `path_data_files`), but also publish the details of its floor information. The structure of `data` is shown as follows.
+We release some data sample in the folder `data`. **The whole 60GB dataset is available on [kaggle](https://www.kaggle.com/c/indoor-location-navigation)**. The data are collected by surveyors using smartphones, and saved as trace files (i.e., fingerprints). For each floor of the building, we not only release its fingerprint data (in the folder `path_data_files`), but also publish the details of its floor information. The structure of `data` is shown as follows.
 
 ```
 \---site1
